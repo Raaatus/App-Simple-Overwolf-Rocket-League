@@ -3,4 +3,60 @@ Basic applications and explanations of the overwolf API with ROCKET LEAGUE as an
 
 
 ##### Summary
-[Get Started](docs/GETSTARTED.md)
+[Get Started](#Test)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Test
