@@ -1,0 +1,17 @@
+{
+    "events": [
+        {
+            "name": "rosterChange",
+            "data": "{\r\n  \"roster\": [\r\n    {\r\n      \"steamId\": \"0\",\r\n      \"score\": 0,\r\n      \"goals\": \"0\",\r\n      \"name\": \"RaitNaoo\",\r\n      \"state\": \"0\",\r\n      \"team_score\": 0,\r\n      \"team\": \"1\",\r\n      \"local\": \"1\",\r\n      \"index\": 0\r\n    }\r\n  ]\r\n}"
+        }
+    ]
+}
+
+{
+    "events": [
+        {
+            "name": "rosterChange",
+            "data": "{\r\n  \"roster\": [\r\n    {\r\n      \"steamId\": \"0\",\r\n      \"score\": 0,\r\n      \"goals\": \"0\",\r\n      \"name\": \"RaitNaoo\",\r\n      \"state\": \"0\",\r\n      \"team_score\": 0,\r\n      \"team\": \"1\",\r\n      \"local\": \"1\",\r\n      \"index\": 0\r\n    },\r\n    {\r\n      \"steamId\": \"1\",\r\n      \"score\": 0,\r\n      \"goals\": \"0\",\r\n      \"name\": \"Saltie\",\r\n      \"state\": \"64\",\r\n      \"team_score\": 0,\r\n      \"team\": \"2\",\r\n      \"local\": \"0\",\r\n      \"index\": 1\r\n    }\r\n  ]\r\n}"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "roster": [
+        {
+            "steamId": "0",
+            "score": 0,
+            "goals": "0",
+            "name": "RaitNaoo",
+            "state": "0",
+            "team_score": 0,
+            "team": "1",
+            "local": "1",
+            "index": 0
+        },
+        {
+            "steamId": "1",
+            "score": 0,
+            "goals": "0",
+            "name": "Saltie",
+            "state": "64",
+            "team_score": 0,
+            "team": "2",
+            "local": "0",
+            "index": 1
+        }
+    ]
+}
